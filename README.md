@@ -1,5 +1,5 @@
 # ft_printf
-Цель проекта заключается в написании аналога функции [printf](https://ru.wikipedia.org/wiki/Printf) из библиотеки *stdio.h*, который демонстрирует практически полный функционал оригинала. Написан на языке C с использование собственной библиотеки [libft](https://github.com/G4S-LA/libft) с небольшими дополнениями.
+Проект [Школы21](https://21-school.ru/), цель которого заключается в написании аналога функции [printf](https://ru.wikipedia.org/wiki/Printf) из библиотеки *stdio.h*, который демонстрирует практически полный функционал оригинала. Написан на языке C с использование собственной библиотеки [libft](https://github.com/G4S-LA/libft) с небольшими дополнениями.
 Подробнее о проекте: [ft_printf](https://github.com/G4S-LA/ft_printf/blob/master/resources/ft_printf.en.pdf)
 
 ## Что может ft_printf?
