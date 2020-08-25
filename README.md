@@ -35,7 +35,7 @@
 | l | типы d, i принимает long int, ouxX an unsigned long int |
 | ll | типы d, i принимает long long int, ouxX - unsigned long long int |
 
-## Как использовать?
+## :hammer: Как использовать?
 
 Для создания требуемого файла *libftprintf.a* используйте команду `make`.
 Ваш файл `example.c`(если он содержится в корневой папке) должен всключать в себя `#include "includes/ft_printf.h"` и саму вызываемую функцию *ft_printf*, пример:
